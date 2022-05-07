@@ -4,7 +4,7 @@ SEND_TO=['receiver@email.com'
 #PASSWORD='password'
 
 HOST=hostname
-PORT=25
+PORT=587
 
 EMAIL_SUBJECT='DAILY SQL SERVER DATABASE SYSTEM CHECKS'
 
